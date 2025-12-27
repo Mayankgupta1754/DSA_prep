@@ -1,56 +1,41 @@
-# 📚 Data Structures & Algorithms – My DSA Journey
+# 📚 Data Structures & Algorithms – A Learning Journey
 
-Welcome to my **Data Structures and Algorithms (DSA) Repository** 🚀  
-This repository contains **every DSA problem I solve**, along with **clear explanations, optimized solutions, and helpful resources**.
+Welcome to my **Data Structures and Algorithms (DSA) learning repository** 🚀  
 
-The purpose of this repo is to:
-- Build strong problem-solving skills
-- Maintain a structured DSA revision notebook
-- Help others understand DSA concepts easily
+This repository is **not about perfect solutions or teaching others**.  
+It is a **personal learning journal** where I solve problems, struggle, learn, improve, and document my understanding along the way.
+
+Some solutions may be **attempted on the spot**, some may be **partially correct at first**, and many are **improved after watching videos or reading explanations** — and that’s intentional.
+
+---
+
+## 🎯 Purpose of This Repository
+
+This repo exists to:
+- Learn DSA **by doing**
+- Track my **thinking process and growth**
+- Document mistakes, insights, and improvements
+- Create a **personal revision space**
+- Stay consistent rather than perfect
 
 ---
 
 ## 🧠 What You’ll Find Here
 
-✅ Problem statements  
-✅ Step-by-step explanations  
-✅ Brute force → optimized approaches  
-✅ Time & space complexity analysis  
-✅ Clean and readable code  
-✅ Video explanations & articles  
+✅ My first attempts at problems  
+✅ Improved solutions after learning  
+✅ Notes from videos & articles  
+✅ Time and space complexity (as I understand them)  
+✅ Honest documentation of my learning process  
 
----
+This repository reflects **progress, not mastery**.
 
+⚠️ Disclaimer
 
-**Each topic folder contains:**
-- Problem solutions
-- Explanation files
-- Useful references
+This repository is not a reference for perfect solutions.
+It contains learning attempts, improvements, and evolving understanding.
 
----
-
-## 📘 Problem Format
-
-Each problem follows a **standard format**:
-
-### 🔹 Problem Name
-**Platform:** LeetCode / GFG / Codeforces  
-**Difficulty:** Easy / Medium / Hard  
-
-### 🔹 Problem Statement
-Brief description of the problem.
-
-### 🔹 Approach
-- Intuition behind the solution  
-- Step-by-step logic  
-- Edge cases considered  
-
-
-
-🤝 Contributions
-This is a personal learning repository.
-Suggestions and better approaches are always welcome.
-
+If you’re learning DSA too — you might find this relatable 🙂
 If you find this helpful, don’t forget to ⭐ the repository!
 
 🔗 Connect With Me
@@ -62,5 +47,4 @@ Leetcode: https://leetcode.com/u/themayankgupta17/
 
 Email: themayankgupta17@gmail.com
 
-“Consistency beats intensity. One problem a day builds mastery.” 💡
-I code, therefore I grow. 👨‍💻🔥
+#**I learn, I fail, I improve — and I commit. 👨‍💻🔥**
