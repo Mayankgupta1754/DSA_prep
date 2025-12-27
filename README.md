@@ -47,4 +47,4 @@ Leetcode: https://leetcode.com/u/themayankgupta17/
 
 Email: themayankgupta17@gmail.com
 
-#**I learn, I fail, I improve — and I commit. 👨‍💻🔥**
+#I learn, I fail, I improve — and I commit. 👨‍💻🔥
